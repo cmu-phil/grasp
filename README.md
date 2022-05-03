@@ -53,5 +53,4 @@ repository for the Tetrad project:
 
 https://github.com/cmu-phil/tetrad/tree/grasp-pub
 
-The Java code is highly optimized, though we are intending to translate it into
-Python soon. (Perhaps the Python code will not be quite so optimized.)
+We are intending to translate GRaSP-2 into Python soon.
