@@ -79,6 +79,12 @@ Instructions for setting up the project in IntelliJ may be found in the Wiki for
 
 https://github.com/cmu-phil/tetrad/wiki/Setting-up-Tetrad-in-IntelliJ-IDEA
 
+# Tetrad Jar
+
+The Tetrad app build used to generated the example used to generate the examples above is here:
+
+https://cmu.app.box.com/file/953506728903
+
 # Python Translation Intent
 
 We are intending to translate the above into Python. When this is done, we will point to the
