@@ -81,7 +81,7 @@ https://github.com/cmu-phil/tetrad/wiki/Setting-up-Tetrad-in-IntelliJ-IDEA
 
 # Tetrad Jar
 
-The Tetrad app build used to generated the example used to generate the examples above is here:
+The Tetrad app build used to generate the examples above is here:
 
 https://cmu.app.box.com/file/953506728903
 

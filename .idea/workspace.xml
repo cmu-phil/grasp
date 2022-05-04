@@ -54,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650911790467</updated>
       <workItem from="1650911792013" duration="2538000" />
-      <workItem from="1651318731301" duration="9921000" />
+      <workItem from="1651318731301" duration="9995000" />
     </task>
     <task id="LOCAL-00001" summary="Added a revised zip of the paper data 2022-04-25.">
       <created>1650911926385</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651674374778</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adjusted files and text">
+      <created>1651674756056</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651674756056</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
