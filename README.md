@@ -87,5 +87,5 @@ https://cmu.app.box.com/file/953506728903
 
 # Python Translation Intent
 
-We are intending to translate the above into Python. When this is done, we will point to the
+We are intending to translate the above Java code into Python. When this is done, we will point to the
 translation here.
