@@ -93,7 +93,7 @@ The Tetrad app build used to generate the examples above is here:
 
 https://cmu.app.box.com/file/953506728903
 
-To launch the Tetrad app, install a Java JDK, then type:
+To launch the Tetrad app, install a Java JDK (default version 1.8), then type:
 
 java -Xmx[#gigbates-ram]g -jar [path-to-the-above-jar-file].jar
 
