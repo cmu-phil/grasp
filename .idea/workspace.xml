@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c5aee55-83a9-47e1-a393-a0f0170fb6ff" name="Changes" comment="Expanded REAME.md">
-      <change afterPath="$PROJECT_DIR$/SomeRealDataExamplesForGrasp.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+    <list default="true" id="6c5aee55-83a9-47e1-a393-a0f0170fb6ff" name="Changes" comment="Adjusted files and text">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650911790467</updated>
       <workItem from="1650911792013" duration="2538000" />
-      <workItem from="1651318731301" duration="7581000" />
+      <workItem from="1651318731301" duration="7885000" />
     </task>
     <task id="LOCAL-00001" summary="Added a revised zip of the paper data 2022-04-25.">
       <created>1650911926385</created>
@@ -95,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651605519374</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adjusted files and text">
+      <created>1651671900156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651671900156</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adjusted files and text">
+      <created>1651671917862</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651671917862</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +130,7 @@
     <MESSAGE value="Added a link to the revised zip of the paper data 2022-04-25, in Box." />
     <MESSAGE value="Added a zip of simulation results." />
     <MESSAGE value="Expanded REAME.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Expanded REAME.md" />
+    <MESSAGE value="Adjusted files and text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjusted files and text" />
   </component>
 </project>

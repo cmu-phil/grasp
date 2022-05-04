@@ -16,7 +16,7 @@ realize some tools require it.
 All simulation results reported in the figures in our paper may be downloaded from this 
 GitHub site; please download this file:
 
-files/grasp_results.zip
+https://github.com/cmu-phil/grasp/blob/main/files/grasp_results.zip
 
 This includes all specific algorithms results for all runs in our paper, plus the summaries
 of these results in the Comparison.txt files. The latter information is what is plotted in our
@@ -33,7 +33,7 @@ The 4-node ground truth models may be downloaded from their source as referenced
 The 5-node path-canceling models in Appendix F may be downloaded from this repository
 in this file:
 
-files/udag5.zip
+https://github.com/cmu-phil/grasp/blob/main/files/udags5.zip
 
 # Real Datasets Repository
 
@@ -48,7 +48,7 @@ Users are encouraged to analyze these dataset using own algorithms.
 
 A slide presentation for these may be downloaded from this repository, here:
 
-files/SomeRealDataExamplesForGrasp.pdf
+https://github.com/cmu-phil/grasp/blob/main/files/SomeRealDataExamplesForGrasp.pdf
 
 # Code
 
