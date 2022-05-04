@@ -1,4 +1,4 @@
-# grasp
+# GRaSP Project Repository
 Materials, code, datasets, etc., for the GRaSP project
 
 # Simulation Datasets

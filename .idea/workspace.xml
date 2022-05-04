@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c5aee55-83a9-47e1-a393-a0f0170fb6ff" name="Changes" comment="Adjusted files and text">
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650911790467</updated>
       <workItem from="1650911792013" duration="2538000" />
-      <workItem from="1651318731301" duration="9109000" />
+      <workItem from="1651318731301" duration="9544000" />
     </task>
     <task id="LOCAL-00001" summary="Added a revised zip of the paper data 2022-04-25.">
       <created>1650911926385</created>
@@ -128,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651673320222</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Adjusted files and text">
+      <created>1651673974937</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651673974937</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adjusted files and text">
+      <created>1651674002382</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651674002382</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
