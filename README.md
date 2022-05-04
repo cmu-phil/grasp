@@ -1,6 +1,12 @@
 # GRaSP Project Repository
 Materials, code, datasets, etc., for the GRaSP project
 
+# Paper
+
+The contents of this repository are for this paper:
+
+***PUT PAPER LINK HERE***
+
 # Simulation Datasets
 
 All of the simulation dataset used in our paper are available on Box here:
