@@ -44,7 +44,7 @@ https://github.com/cmu-phil/example-causal-datasets
 
 Users are encouraged to analyze these dataset using own algorithms.
 
-# PC/FGES/GRaSP2/SP on a subset of these real dataset.
+# PC/FGES/GRaSP2/SP on a subset of these real datasets.
 
 A slide presentation for these may be downloaded from this repository, here:
 
