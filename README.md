@@ -56,6 +56,8 @@ A slide presentation for these may be downloaded from this repository, here:
 
 https://github.com/cmu-phil/grasp/blob/main/files/SomeRealDataExamplesForGrasp.pdf
 
+GRaSP-0 and GRaSP-1 results will be added to these slides.
+
 # Code
 
 All Java code for our paper is included in the granch 'grasp-pub' of the GitHub 
