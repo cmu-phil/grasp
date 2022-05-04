@@ -93,6 +93,10 @@ The Tetrad app build used to generate the examples above is here:
 
 https://cmu.app.box.com/file/953506728903
 
+To launch the Tetrad app, install a Java JDK, then type:
+
+java -Xmx[#gigbates-ram]g -jar [path-to-the-above-jar-file].jar
+
 # Python Translation Intent
 
 We are intending to translate the above Java code into Python. When this is done, we will point to the
