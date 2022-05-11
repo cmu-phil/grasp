@@ -89,9 +89,9 @@ https://github.com/cmu-phil/tetrad/wiki/Setting-up-Tetrad-in-IntelliJ-IDEA
 
 # Tetrad Jar
 
-The Tetrad app build used to generate the examples above is here:
+The Tetrad app build used to generate the examples above is in the Maven Cental Repository and may be downloaded using this link:
 
-https://cmu.app.box.com/file/953506728903
+https://s01.oss.sonatype.org/content/repositories/releases/io/github/cmu-phil/tetrad-gui/7.1.0/tetrad-gui-7.1.0-launch.jar
 
 To launch the Tetrad app, install a Java JDK (default version 1.8), then type in a terminal window:
 
