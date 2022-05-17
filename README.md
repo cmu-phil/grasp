@@ -1,11 +1,9 @@
 # GRaSP Project Repository
 Materials, code, datasets, etc., for the GRaSP project
 
-# Paper
-
 The contents of this repository are for this paper:
 
-***PUT PAPER LINK HERE***
+Lam, W. Y., Andrews, B., & Ramsey, J.. (2012). Greedy Relaxations of the Sparsest Permutation Algorithm. Uncertainty in Artificial Intelligence, Accepted.
 
 # Simulation Datasets
 
