@@ -3,7 +3,7 @@ Materials, code, datasets, etc., for the GRaSP project
 
 The contents of this repository are for this paper:
 
-Lam, W. Y., Andrews, B., & Ramsey, J.. (2012). Greedy Relaxations of the Sparsest Permutation Algorithm. Uncertainty in Artificial Intelligence, Accepted.
+Lam, W. Y., Andrews, B., & Ramsey, J.. (2022). Greedy Relaxations of the Sparsest Permutation Algorithm. Uncertainty in Artificial Intelligence, Accepted.
 
 # Simulation Datasets
 
