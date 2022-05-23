@@ -23,8 +23,12 @@ GitHub site; please download this file:
 https://github.com/cmu-phil/grasp/blob/main/files/grasp_results.zip
 
 This includes all specific algorithms results for all runs in our paper, plus the summaries
-of these results in the Comparison.txt files. The latter information is what is plotted in our
-simulation Figures.
+of these results in the Comparison.txt files, comparing to the true DAG. We also include
+summaries comparing to the true CPDAG, here:
+
+https://github.com/cmu-phil/grasp/blob/main/files/grasp_results_comparing_to_true_CPDAG.zip
+
+The latter information is what is plotted in our simulation Figures.
 
 All of these results were generated using the algcomparison facility in Tetrad--
 
