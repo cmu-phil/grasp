@@ -101,7 +101,8 @@ java -Xmx[#gigbates-ram]g -jar [path-to-the-above-jar-file].jar
 
 This should work on all platforms; if not, let us know.
 
-# Python Translation Intent
+# Python Translation
 
-We are intending to translate the above Java code into Python. When this is done, we will point to the
-translation here.
+A scalable Python translation of GRaSP-2 for the linear, Gaussian case is available here:
+
+https://github.com/bja43/GRaSP
