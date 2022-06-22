@@ -13,7 +13,7 @@ Wai-yin Lam: waiyinl@andrew.cmu.edu, Bryan Andrews: bjandrew@andrew.cmu.edu, Jos
 
 # Python Translation
 
-A scalable Python translation of GRaSP-2 for the linear, Gaussian case is available in the causal-learn package, hete:
+A scalable Python translation of GRaSP-2 for the linear, Gaussian case is available in the causal-learn package, here:
 
 https://github.com/cmu-phil/causal-learn
 
