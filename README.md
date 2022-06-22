@@ -5,6 +5,8 @@ The contents of this repository are for this paper:
 
 Lam, W. Y., Andrews, B., & Ramsey, J.. (2022). Greedy Relaxations of the Sparsest Permutation Algorithm. Uncertainty in Artificial Intelligence, Accepted.
 
+On arXiv: https://arxiv.org/abs/2206.05421
+
 # Python Translation
 
 A scalable Python translation of GRaSP-2 for the linear, Gaussian case is available here:
