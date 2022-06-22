@@ -7,11 +7,17 @@ Lam, W. Y., Andrews, B., & Ramsey, J.. (2022). Greedy Relaxations of the Sparses
 
 On arXiv: https://arxiv.org/abs/2206.05421
 
+Contact information:
+
+Wai-yin Lam: waiyinl@andrew.cmu.edu
+Bryan Andrews: bjandrew@andrew.cmu.edu
+Joseph Ramsey: jdramsey@andrew.cmu.edu
+
 # Python Translation
 
-A scalable Python translation of GRaSP-2 for the linear, Gaussian case is available here:
+A scalable Python translation of GRaSP-2 for the linear, Gaussian case is available in the causal-learn package, hete:
 
-https://github.com/bja43/GRaSP
+https://github.com/cmu-phil/causal-learn
 
 # Simulation Datasets
 
