@@ -17,7 +17,7 @@ A scalable Python translation of GRaSP-2 for the linear, Gaussian case is availa
 
 https://github.com/cmu-phil/causal-learn
 
-# Command-line java tool with Python wrapper
+# Command-line Java tool with Python wrapper
 
 https://github.com/cmu-phil/causal-cmd-python-wrapper
 
