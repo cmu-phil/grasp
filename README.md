@@ -9,7 +9,7 @@ On arXiv: https://arxiv.org/abs/2206.05421
 
 Contact information:
 
-Wai-yin Lam: waiyinl@andrew.cmu.edu, Bryan Andrews: bjandrew@andrew.cmu.edu, Joseph Ramsey: jdramsey@andrew.cmu.edu
+Wai-yin Lam: waiyinl@andrew.cmu.edu, Bryan Andrews: andr1017@umn.edu, Joseph Ramsey: jdramsey@andrew.cmu.edu
 
 # Python Translation
 
